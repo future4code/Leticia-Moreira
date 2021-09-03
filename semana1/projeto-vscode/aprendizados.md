@@ -1,0 +1,2 @@
+# Aprendizados da semana
+Essa primeira semana foi de bastante aprendizado, aprendemos o que é o **terminal**, como utilizar e aprendemos sobre o **git**, tanto o gitbash que é o terminal que estou utilizando e o github onde postamos nossos projetos para serem avaliados.
