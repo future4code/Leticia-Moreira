@@ -132,10 +132,10 @@ function checaAnoBissexto() {
   // escreva seu código aqui
   let anoQualquer = Number(prompt("Digite um ano qualquer:"))
   let bissexto1 = (anoQualquer % 400) === 0
-  let bissexto2 = ((anoQualquer % 4 ===0) && (anoQualquer % 100 ===0))
+  let bissexto2 = ((anoQualquer % 4 ===0) && (anoQualquer % 100 !=0))
   let bissexto3 = anoQualquer && bissexto1 && bissexto2
 
-  consolelog(bissexto3 || bissexto1 || bissexto2)
+  console.log(bissexto3 || bissexto1 || bissexto2)
 }
 
 checaAnoBissexto()
@@ -143,4 +143,12 @@ checaAnoBissexto()
 // Exercício 12
 function checaValidadeInscricaoLabenu() {
   // escreva seu código aqui
+  let maisDe18 = prompt("Você tem mais de 18 anos?")
+  let escolaridade = prompt("Você possui o ensino médio completo?")
+  let disponibilidade = prompt("Você possui disponibilidade exclusiva durante os horários do curso?")
+  let validade = maisDe18 === "sim" 
+  let validade2 = escolaridade === "sim" 
+  let validade3 = disponibilidade === "sim" 
+  console.log(validade && validade2 && validade3)
 }
+checaValidadeInscricaoLabenu()
