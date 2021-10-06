@@ -14,9 +14,12 @@ function retornaNumerosParesElevadosADois(array) {
 }
 
 // EXERCÍCIO 03
-function retornaNumerosPares(array) {
+// function retornaNumerosPares(array) {
+//   let numerosPares = array % 2
+//   console.log(numerosPares)
+//   return numerosPares
 
-}
+// }
 
 // EXERCÍCIO 04
 // function retornaMaiorNumero(array) {
@@ -59,9 +62,10 @@ function retornaNNumerosPares(n) {
 
 // EXERCÍCIO 08
 function checaTriangulo(a, b, c) {
-  // return 'Escaleno'
-  // return 'Equilátero'
-  // return 'Isósceles'
+     
+  return 'Escaleno'
+  return 'Equilátero'
+  return 'Isósceles'
 }
 
 // EXERCÍCIO 09
@@ -85,9 +89,17 @@ function ordenaArray(array) {
 }
 
 // EXERCÍCIO 12
-function filmeFavorito() {
+// function filmeFavorito() {
+//   const filme = {
+//   nome:"O Diabo Veste Prada",
+//   ano:2006,
+//   diretor:"David Frankel",
+//   atores:["Meryl Streep","Anne Hathaway","Emily Blunt","Stanley Tucci"]
 
-}
+// }
+// console.log(filme)
+// return filme
+// }
 
 // EXERCÍCIO 13
 function imprimeChamada() {
