@@ -19,9 +19,11 @@ function retornaNumerosPares(array) {
 }
 
 // EXERCÍCIO 04
-function retornaMaiorNumero(array) {
-
-}
+// function retornaMaiorNumero(array) {
+//   let maiorNumero = Math.max.apply(null, array)
+//   console.log(maiorNumero)
+//   return maiorNumero
+// }
 
 // EXERCÍCIO 05
 // function retornaQuantidadeElementos(array) {
