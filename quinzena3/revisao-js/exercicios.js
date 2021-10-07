@@ -15,11 +15,17 @@ function retornaNumerosParesElevadosADois(array) {
 
 // EXERCÍCIO 03
 // function retornaNumerosPares(array) {
-//   let numerosPares = array % 2
-//   console.log(numerosPares)
-//   return numerosPares
+//   let numerosPares = []
+//   if (numerosPares % 2 === 0){
+//     numerosPares.push()
+//   }
 
+// return numerosPares
 // }
+
+
+
+
 
 // EXERCÍCIO 04
 // function retornaMaiorNumero(array) {
@@ -56,19 +62,29 @@ function retornaNumerosParesElevadosADois(array) {
 
 
 // EXERCÍCIO 07
-function retornaNNumerosPares(n) {
-let numerosPares = []
-for (let i = 0; numerosPares.length < n; i ++){
-  if (i % 2 === 0){
-    numerosPares.push(i)
-  }
-}
-return numerosPares
-}
+// function retornaNNumerosPares(n) {
+// let numerosPares = []
+// for (let i = 0; numerosPares.length < n; i ++){
+//   if (i % 2 === 0){
+//     numerosPares.push(i)
+//   }
+// }
+// return numerosPares
+// }
 
 // EXERCÍCIO 08
 function checaTriangulo(a, b, c) {
-     
+    const tresLados = "Equilátero"
+    const doisLados = "Isósceles"
+    const nenhumLado = "Escaleno"
+
+  if (a === b && b === c ) {
+    return tresLados
+  } else if ( a === b || a === c || b === c) {
+    return doisLados
+  } else {
+    return nenhumLado
+  }
   // return 'Escaleno'
   // return 'Equilátero'
   // return 'Isósceles'
