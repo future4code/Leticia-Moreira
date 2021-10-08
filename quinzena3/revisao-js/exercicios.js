@@ -8,10 +8,17 @@
 // }
 
 // EXERCÍCIO 02
-function retornaNumerosParesElevadosADois(array) {
-   
-   
-}
+// function retornaNumerosParesElevadosADois(array) {
+//   let numerosPares = []
+//     for (let numero of array){
+//     if (numero % 2 === 0){
+//       numerosPares.push(numero**2)
+      
+//         }
+//     }
+//   return numerosPares
+//     }
+
 
 // EXERCÍCIO 03
 //  function retornaNumerosPares(array) {
