@@ -14,14 +14,15 @@ function retornaNumerosParesElevadosADois(array) {
 }
 
 // EXERCÍCIO 03
-// function retornaNumerosPares(array) {
+//  function retornaNumerosPares(array) {
 //   let numerosPares = []
-//   if (numerosPares % 2 === 0){
-//     numerosPares.push()
+//   for (let numero of array){
+//   if (numero % 2 === 0){
+//     numerosPares.push(numero)
 //   }
-
+//   }
 // return numerosPares
-// }
+//   }
 
 
 
@@ -73,22 +74,22 @@ function retornaNumerosParesElevadosADois(array) {
 // }
 
 // EXERCÍCIO 08
-function checaTriangulo(a, b, c) {
-    const tresLados = "Equilátero"
-    const doisLados = "Isósceles"
-    const nenhumLado = "Escaleno"
+// function checaTriangulo(a, b, c) {
+//     const tresLados = "Equilátero"
+//     const doisLados = "Isósceles"
+//     const nenhumLado = "Escaleno"
 
-  if (a === b && b === c ) {
-    return tresLados
-  } else if ( a === b || a === c || b === c) {
-    return doisLados
-  } else {
-    return nenhumLado
-  }
+//   if (a === b && b === c ) {
+//     return tresLados
+//   } else if ( a === b || a === c || b === c) {
+//     return doisLados
+//   } else {
+//     return nenhumLado
+//   }
   // return 'Escaleno'
   // return 'Equilátero'
   // return 'Isósceles'
-}
+
 
 // EXERCÍCIO 09
 function comparaDoisNumeros(num1, num2) {
