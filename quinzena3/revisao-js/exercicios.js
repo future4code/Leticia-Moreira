@@ -150,21 +150,27 @@ function ordenaArray(array) {
 // }
 
 // EXERCÍCIO 14
-function criaRetangulo(lado1, lado2) {
- const retangulo = {
- largura: lado1,
- altura: lado2,
- perimetro: (2 * (lado1 + lado2)),
- area: (lado1 * lado2),
+// function criaRetangulo(lado1, lado2) {
+//  const retangulo = {
+//  largura: lado1,
+//  altura: lado2,
+//  perimetro: (2 * (lado1 + lado2)),
+//  area: (lado1 * lado2),
 
-}
-return retangulo
-}
+// }
+// return retangulo
+// }
 
 // EXERCÍCIO 15
-function anonimizaPessoa(pessoa) {
-
-}
+// function anonimizaPessoa(pessoa) {
+   
+//  let novaPessoa = {
+//    ...pessoa,
+//    nome: "ANÔNIMO"
+//  }
+//   return novaPessoa
+ 
+// }
 
 // EXERCÍCIO 16A
 function maioresDe18(arrayDePessoas) {
