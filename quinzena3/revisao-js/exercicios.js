@@ -99,14 +99,18 @@
 
 
 // EXERCÍCIO 09
-function comparaDoisNumeros(num1, num2) {
-  // Formato do objeto a ser retornado:
-  // {
-  //   maiorNumero: X,
-  //   maiorDivisivelPorMenor: Y,
-  //   diferenca: Z
-  // }
-}
+// function comparaDoisNumeros(num1, num2) {
+// const maiorNumero = num2
+// const menorNumero = num1
+// const maiorDivisivelporMenor = maiorNumero % menorNumero
+// const diferenca = maiorNumero - menorNumero
+
+// if (num1 > num2) {
+//   return maiorNumero
+// } else menorNumero
+
+// console.log(maiorNumero)
+//}
 
 // EXERCÍCIO 10
 function segundoMaiorEMenor(array) {
@@ -132,14 +136,29 @@ function ordenaArray(array) {
 // }
 
 // EXERCÍCIO 13
-function imprimeChamada() {
-  // "Venha assistir ao filme NOME_DO_FILME, de ANO, dirigido por DIRECAO e estrelado por ELENCO."
+// function imprimeChamada() {
+
+//    const filme = {
+//     nome:"O Diabo Veste Prada",
+//     ano: 2006,
+//     diretor:"David Frankel",
+//     atores:["Meryl Streep", " Anne Hathaway", " Emily Blunt","Stanley Tucci"]
+//    }
+   
+//      return `Venha assistir ao filme ${filme.nome}, de ${filme.ano}, dirigido por ${filme.diretor} e estrelado por ${filme.atores}.`
      
-}
+// }
 
 // EXERCÍCIO 14
 function criaRetangulo(lado1, lado2) {
+ const retangulo = {
+ largura: lado1,
+ altura: lado2,
+ perimetro: (2 * (lado1 + lado2)),
+ area: (lado1 * lado2),
 
+}
+return retangulo
 }
 
 // EXERCÍCIO 15
@@ -159,7 +178,7 @@ function menoresDe18(arrayDePessoas) {
 
 // EXERCÍCIO 17A
 function multiplicaArrayPor2(array) {
-
+  
 }
 
 // EXERCÍCIO 17B
