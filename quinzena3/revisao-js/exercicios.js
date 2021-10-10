@@ -98,10 +98,31 @@
   // return 'Isósceles'
 
 
-// EXERCÍCIO 09
-function comparaDoisNumeros(num1, num2) {
+// EXERCÍCIO 09 //ok
+// function comparaDoisNumeros(num1, num2) {
+//   let number = [num1,num2]
+//   let maiorNumero = Math.max.apply(null, number)
+//   let menorNumero = Math.min.apply(null, number)
+//   let maiorDivisivelPorMenor = maiorNumero % menorNumero === 0
+//   let diferenca = maiorNumero - menorNumero
+    
+  
+//   const resposta = {
+//     maiorNumero,
+//     maiorDivisivelPorMenor,
+//     diferenca
+//   }
+//   return resposta
+//   }
+  
 
-}
+ 
+
+
+  
+ 
+
+
 
 // EXERCÍCIO 10
 function segundoMaiorEMenor(array) {
