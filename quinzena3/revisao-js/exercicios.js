@@ -7,7 +7,7 @@
 //   return array
 // }
 
-// EXERCÍCIO 02
+// EXERCÍCIO 02 //ok
 // function retornaNumerosParesElevadosADois(array) {
 //   let numerosPares = []
 //     for (let numero of array){
@@ -20,7 +20,7 @@
 //     }
 
 
-// EXERCÍCIO 03
+// EXERCÍCIO 03 //ok
 //  function retornaNumerosPares(array) {
 //   let numerosPares = []
 //   for (let numero of array){
@@ -35,14 +35,14 @@
 
 
 
-// EXERCÍCIO 04
+// EXERCÍCIO 04 //ok
 // function retornaMaiorNumero(array) {
 //   let maiorNumero = Math.max.apply(null, array)
 //   console.log(maiorNumero)
 //   return maiorNumero
 // }
 
-// EXERCÍCIO 05
+// EXERCÍCIO 05 //ok
 // function retornaQuantidadeElementos(array) {
 //   let quantidadeElementos = array.length
 //   console.log(array)
@@ -50,7 +50,7 @@
   
 // }
 
-// EXERCÍCIO 06
+// EXERCÍCIO 06 //ok
 // function retornaExpressoesBooleanas() {
 //   const booleano1 = true
 //   const booleano2 = false
@@ -69,7 +69,7 @@
 // }
 
 
-// EXERCÍCIO 07
+// EXERCÍCIO 07 //ok
 // function retornaNNumerosPares(n) {
 // let numerosPares = []
 // for (let i = 0; numerosPares.length < n; i ++){
@@ -80,7 +80,7 @@
 // return numerosPares
 // }
 
-// EXERCÍCIO 08
+// EXERCÍCIO 08 //ok
 // function checaTriangulo(a, b, c) {
 //     const tresLados = "Equilátero"
 //     const doisLados = "Isósceles"
@@ -99,18 +99,9 @@
 
 
 // EXERCÍCIO 09
-// function comparaDoisNumeros(num1, num2) {
-// const maiorNumero = num2
-// const menorNumero = num1
-// const maiorDivisivelporMenor = maiorNumero % menorNumero
-// const diferenca = maiorNumero - menorNumero
+function comparaDoisNumeros(num1, num2) {
 
-// if (num1 > num2) {
-//   return maiorNumero
-// } else menorNumero
-
-// console.log(maiorNumero)
-//}
+}
 
 // EXERCÍCIO 10
 function segundoMaiorEMenor(array) {
@@ -122,7 +113,7 @@ function ordenaArray(array) {
 
 }
 
-// EXERCÍCIO 12
+// EXERCÍCIO 12 //ok
 // function filmeFavorito() {
   // const filme = {
   // nome:"O Diabo Veste Prada",
@@ -135,21 +126,21 @@ function ordenaArray(array) {
 //  return filme
 // }
 
-// EXERCÍCIO 13
+// EXERCÍCIO 13 //ok
 // function imprimeChamada() {
 
 //    const filme = {
 //     nome:"O Diabo Veste Prada",
 //     ano: 2006,
 //     diretor:"David Frankel",
-//     atores:["Meryl Streep", " Anne Hathaway", " Emily Blunt","Stanley Tucci"]
+//     atores:["Meryl Streep", " Anne Hathaway", " Emily Blunt"," Stanley Tucci"]
 //    }
    
 //      return `Venha assistir ao filme ${filme.nome}, de ${filme.ano}, dirigido por ${filme.diretor} e estrelado por ${filme.atores}.`
      
 // }
 
-// EXERCÍCIO 14
+// EXERCÍCIO 14 //ok
 // function criaRetangulo(lado1, lado2) {
 //  const retangulo = {
 //  largura: lado1,
@@ -161,7 +152,7 @@ function ordenaArray(array) {
 // return retangulo
 // }
 
-// EXERCÍCIO 15
+// EXERCÍCIO 15 //ok
 // function anonimizaPessoa(pessoa) {
    
 //  let novaPessoa = {
@@ -173,9 +164,11 @@ function ordenaArray(array) {
 // }
 
 // EXERCÍCIO 16A
-function maioresDe18(arrayDePessoas) {
+// function maioresDe18(arrayDePessoas) {
+  
+  
 
-}
+//}
 
 // EXERCÍCIO 16B
 function menoresDe18(arrayDePessoas) {
@@ -183,9 +176,16 @@ function menoresDe18(arrayDePessoas) {
 }
 
 // EXERCÍCIO 17A
-function multiplicaArrayPor2(array) {
+// function multiplicaArrayPor2(array) {
+//   for (let i of array){
+//     let multiplica = array[i] * 2
+//     console.log(multiplica)
+//   }
+
+
   
-}
+  
+//}
 
 // EXERCÍCIO 17B
 function multiplicaArrayPor2S(array) {
