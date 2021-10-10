@@ -115,24 +115,18 @@
 //   return resposta
 //   }
   
-
- 
-
-
-  
- 
-
-
-
 // EXERCÍCIO 10
 function segundoMaiorEMenor(array) {
 
 }
 
-// EXERCÍCIO 11
-function ordenaArray(array) {
-
-}
+// EXERCÍCIO 11 //ok
+// function ordenaArray(array) {
+// let arr = array
+//  arr.sort(function(a, b){
+//  return a-b})
+//  return arr
+// }
 
 // EXERCÍCIO 12 //ok
 // function filmeFavorito() {
