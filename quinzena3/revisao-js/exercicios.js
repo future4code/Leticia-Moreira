@@ -228,10 +228,10 @@ function verificaParidade(array) {
 
 // EXERCÍCIO 18B
 // function retornaPessoasNaoAutorizadas(pessoas) {
-//   const altura = pessoas.filter ((pessoas, indice, array) => {
-//     return pessoas.altura >= 1.5 && pessoas.idade > 14 && pessoas.idade < 60})
+//   const naoAutorizada = pessoas.filter ((pessoas, indice, array) => {
+//     return pessoas.altura < 1.5 || pessoas.idade <= 14 || pessoas.idade > 60})
   
-//     return altura
+//     return naoAutorizada
 //     }
 
 
