@@ -199,13 +199,13 @@ function segundoMaiorEMenor(array) {
 // function multiplicaArrayPor2(array) {
 //   for (let i of array){
 //     let multiplica = array[i] * 2
-//     console.log(multiplica)
+//     return multiplica
 //   }
 
 
   
   
-//}
+// }
 
 // EXERCÍCIO 17B
 function multiplicaArrayPor2S(array) {
@@ -217,15 +217,23 @@ function verificaParidade(array) {
 
 }
 
-// EXERCÍCIO 18A
-function retornaPessoasAutorizadas(pessoas) {
+// EXERCÍCIO 18A //ok
+// function retornaPessoasAutorizadas(pessoas) {
+//   const autorizada = pessoas.filter ((pessoas, indice, array) => {
+//   return pessoas.altura >= 1.5 && pessoas.idade > 14 && pessoas.idade < 60})
 
-}
+//   return autorizada
+//   }
+
 
 // EXERCÍCIO 18B
-function retornaPessoasNaoAutorizadas(pessoas) {
+// function retornaPessoasNaoAutorizadas(pessoas) {
+//   const altura = pessoas.filter ((pessoas, indice, array) => {
+//     return pessoas.altura >= 1.5 && pessoas.idade > 14 && pessoas.idade < 60})
+  
+//     return altura
+//     }
 
-}
 
 // EXERCÍCIO 19A
 function ordenaPorNome(consultasNome) {
