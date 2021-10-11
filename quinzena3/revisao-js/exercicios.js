@@ -186,10 +186,14 @@ function segundoMaiorEMenor(array) {
 
 
 
-// EXERCÍCIO 16B
-function menoresDe18(arrayDePessoas) {
+// EXERCÍCIO 16B //ok
+// function menoresDe18(arrayDePessoas) {
+//   const menores = arrayDePessoas.filter ((arrayDePessoas, indice, array) => {
+//   return arrayDePessoas.idade < 18})
 
-}
+//   return menores
+//   }
+
 
 // EXERCÍCIO 17A
 // function multiplicaArrayPor2(array) {
