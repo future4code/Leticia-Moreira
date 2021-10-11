@@ -1,11 +1,8 @@
 // EXERCÍCIO 01 
-// function inverteArray(array) {
-//   array = [0,8,23,16,10,15,41,12,13]
-    
-    
-//   console.log(array)
-//   return array
-// }
+   function inverteArray(array) {
+ 
+
+}
 
 // EXERCÍCIO 02 //ok
 // function retornaNumerosParesElevadosADois(array) {
@@ -178,12 +175,16 @@ function segundoMaiorEMenor(array) {
  
 // }
 
-// EXERCÍCIO 16A
+// EXERCÍCIO 16A //ok
 // function maioresDe18(arrayDePessoas) {
-  
+//  const maiores = arrayDePessoas.filter ((arrayDePessoas, indice, array) => {
+// return arrayDePessoas.idade >= 18})
+
+//  return maiores
+//  }
   
 
-//}
+
 
 // EXERCÍCIO 16B
 function menoresDe18(arrayDePessoas) {
