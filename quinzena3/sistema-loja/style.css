@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(149, 229, 149);
+     }
+
+img {
+    max-width: 10em;
+}
+
+div a {
+    background-color: rgba(89, 238, 114, 0.856);
+    border-radius: 5px;
+    border-color: black;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+   }
+
+th {
+    padding: 0,9em;
+    border-radius: 5px;
+    
+}
+
+tr {
+    background-color: rgba(203, 216, 19, 0.884);
+    text-align: center;
+    border-radius: 5px;
+
+}

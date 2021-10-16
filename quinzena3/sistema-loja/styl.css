@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(149, 229, 149);
+     }
+
+     div a {
+        background-color: rgba(89, 238, 114, 0.856);
+        border-radius: 5px;
+        border-color: black;
+        padding: 10px;
+        font-size: 16px;
+        text-align: center;
+       }
+
+table {
+    background-color: white;
+    border-radius: 5px;
+    border-color: black;
+    padding: 10px;
+    font-size: 16px;
+    
+   }
+
+   button {
+
+    background-color: rgba(89, 238, 114, 0.856); 
+    border-radius: 5px; 
+   
+}
+        
