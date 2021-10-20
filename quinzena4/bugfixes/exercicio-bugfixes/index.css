@@ -71,6 +71,14 @@ div img {
     width: 20px;
 }
 
+.icone:hover {
+    opacity: 0.5;
+}
+
+.icone:active {
+    opacity: 1;
+}
+
 
 /** 
   *
@@ -115,9 +123,7 @@ table {
     width: 60%;
     position: relative;
     left: 25%;
-    text-align: center;
-    
-    
+    text-align: center; 
 }
 
 td button {
@@ -126,14 +132,13 @@ td button {
     height: 30px;
     border-radius: 5px;
     color: black;
-    
 }
 
 td button:hover {
     background-color: #cab453;
 }
 
-td button:focus {
+td button:active {
     color: white;
 }
 
