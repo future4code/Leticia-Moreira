@@ -114,6 +114,15 @@ td button {
     height: 30px;
     border-radius: 5px;
     color: black;
+    
+}
+
+td button:hover {
+    background-color: #cab453;
+}
+
+td button:focus {
+    color: white;
 }
 
 .container-do-search {
