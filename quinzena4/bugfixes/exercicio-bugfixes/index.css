@@ -3,6 +3,10 @@
   *  ESTILOS GERAIS 
   *
   **/
+body {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot');
+}
 
 * {
     margin: 0;
@@ -110,6 +114,7 @@ table {
     position: relative;
     left: 25%;
     text-align: center;
+    
 }
 
 td button {
