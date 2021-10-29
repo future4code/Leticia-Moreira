@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    height: 10px;
+}
+
+img {
+   width: 100%;
+   height: 70%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagens{
+    border: solid green;
+    width: 350px;
+
+}
+
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 20px;
+  column-gap: 20px;
+  margin: 20px;
+}
+
+footer {
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 25px;
+    text-align: center;
+    
+}
+    
+
+video {
+    width: 50%;
+    margin: 15px;
+    
+}
+
+.texto {
+    text-align: left;
+    margin: 10px;
+}
