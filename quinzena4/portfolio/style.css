@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar{
+    font-style: italic;
+    background-color: rgb(109, 68, 148);
+    height: 20px;
+    padding: 5px;
+    text-align: center;   
+}
+
+
+body{
+    text-align: justify;
+    background-color: blueviolet;
+    margin: 25px;
+    
+}
+
+#inicio {
+    text-align: center;
+        
+}
+
+.eu {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#pessoal {
+    padding: 5px;
+    border: solid;
+    font-size: 20px;
+}
+
+img {
+    width: 60px;
+}
+
+.git {
+    width: 100px;
+}
+
+.loja {
+    width: 800px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+.inicioloja {
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+.blackjack {
+    width: 800px;
+    padding: 5px;
+}
+
+
+#escolar,#projetos,#profissional,#comportamental, #contato, #redes {
+    padding: 5px;
+    border: solid;
+}
+
+#redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.form-add > button {
+    padding: 10px 30px;
+    border: 1px solid rgb(138, 94, 138);
+    background-color: rgb(114, 27, 114);
+    border-radius: 5px;
+}
+
+.texto {
+    vertical-align: top;
+    height: 5em;
+}
+

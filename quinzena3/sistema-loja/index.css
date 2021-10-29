@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(149, 229, 149);
+    
+    }
+
+.inicio {
+    background-color: rgba(0, 255, 21, 0.349);
+    }
+
+h1 {
+color: rgb(5, 102, 5);
+text-align: center;
+
+}
+
+.frase {
+    text-align: center;
+    color: black;
+}
+
+.informacao {
+    text-align: center;
+    color: black;
+}
+
+
+div a {
+    background-color: rgba(89, 238, 114, 0.856);
+    border-radius: 5px;
+    border-color: black;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+   }
+
+img {
+    max-width: 10em;
+    
+}
+
