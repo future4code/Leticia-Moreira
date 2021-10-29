@@ -197,11 +197,10 @@ function segundoMaiorEMenor(array) {
 
 // EXERCÍCIO 17A
 // function multiplicaArrayPor2(array) {
-//   for (let i of array){
-//     let multiplica = array[i] * 2
-//     return multiplica
-//   }
-
+//   let multiplica = array * 2
+//   return multiplica
+  
+// }
 
   
   
@@ -226,7 +225,7 @@ function verificaParidade(array) {
 //   }
 
 
-// EXERCÍCIO 18B
+// EXERCÍCIO 18B //ok
 // function retornaPessoasNaoAutorizadas(pessoas) {
 //   const naoAutorizada = pessoas.filter ((pessoas, indice, array) => {
 //     return pessoas.altura < 1.5 || pessoas.idade <= 14 || pessoas.idade > 60})
@@ -239,13 +238,30 @@ function verificaParidade(array) {
 function ordenaPorNome(consultasNome) {
 
 }
+// let arr = array
+//  arr.sort(function(a, b){
+//  return a-b})
+//  return arr
+// }
 
 // EXERCÍCIO 19B
 function ordenaPorData(consultasData) {
+//   const data = consultasData.map ((consultasData, indice, array) => {
+// return consultasData.dataDaConsulta})
+//  const nome = consultasData.filter ((consultasData, indice, array) => {
+//   return consultasData === data})
+// data.sort((function(a, b){
+//     return a-b}))
+// console.log(nome, data)
+ 
 
-}
+  }
+
+
 
 // EXERCÍCIO 20
 function calculaSaldo(contas) {
-
+ 
 }
+
+
