@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
+import PersonagemDetail from './componentes/CharacterDetailPage/personagensDetail/CharacterDetailPage'
 
 ReactDOM.render(
   <React.StrictMode>

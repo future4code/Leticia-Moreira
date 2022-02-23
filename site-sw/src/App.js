@@ -1,13 +1,11 @@
-
-
+import React from "react";
+import { CharacterDetailPage } from "./componentes/CharacterDetailPage/personagensDetail/CharacterDetailPage"
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>
-          Detalhes dos personagens
-        </h1>
+        <CharacterDetailPage />
         <a
           className="App-link"
           href="https://reactjs.org"
