@@ -1,6 +1,7 @@
 import React from "react";
 import { CharacterDetailPage } from "./componentes/CharacterDetailPage/personagensDetail/CharacterDetailPage"
 
+
 function App() {
   return (
     <div className="App">
