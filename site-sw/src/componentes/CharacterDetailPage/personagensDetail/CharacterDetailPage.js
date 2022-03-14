@@ -1,27 +1,15 @@
-import React from "react"
-import React, {useState} from 'react' 
+import React from 'react'
 
-export const CharacterDetailPage = () => {
-    return (
+export function CharacterDetailPage(props) {
+
+   
     <div>
-        <h1>Detalhes de Personagens</h1>
 
-        </div>
-    )
-}
+    <h1> Detalhes dos Personagens</h1>
 
-export function Page() {
-    const [currentPage, setCurrentPage] = useState("list")
-
-    const selectPage = () => {
-
-        <div> Lista de Personagens</div>
-        setCurrentPage("Luke Skywalker")
-    }
-}
-
-export function goToDetailsPage () {
+      </div>
 
     
-
 }
+
+export default CharacterDetailPage
