@@ -1,22 +1,17 @@
+import React from 'react';
+import { CharacterDetailPage } from './componentes/CharacterDetailPage/personagensDetail/CharacterDetailPage'
+import { CharacterListPage } from './componentes/CharacterListPage/personagensList//CharacterListPage'
 
 
 
-function App() {
+const App = () => {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>
-          Detalhes dos personagens
-        </h1>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        
-        </a>
-      </header>
+    <div>
+    <CharacterDetailPage />
+    <CharacterListPage  CharacterListPage={CharacterListPage.title}/> 
+    
+    
     </div>
   );
 }
