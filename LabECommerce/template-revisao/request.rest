@@ -1,0 +1,15 @@
+// o Client Rest simula o uso do Postman no VSCode
+// Com a extensão instalada, clique em "Send Request"
+
+
+###  modelo para endpoint com método GET
+GET http://localhost:3003/teste
+
+
+### modelo para endpoint com body(POST, PUT):
+POST http://localhost:3003/teste
+Content-Type: application/json
+
+{
+    
+}
