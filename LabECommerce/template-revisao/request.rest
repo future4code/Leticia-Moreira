@@ -3,13 +3,15 @@
 
 
 ###  modelo para endpoint com método GET
-GET http://localhost:3003/teste
+GET http://localhost:3003/labecommerce_users
 
 
 ### modelo para endpoint com body(POST, PUT):
-POST http://localhost:3003/teste
+POST http://localhost:3003/labecommerce_users
 Content-Type: application/json
 
 {
-    
+  "name":"Jose",
+  "email":"jose@labenu.com",
+  "password":"bananinha"
 }

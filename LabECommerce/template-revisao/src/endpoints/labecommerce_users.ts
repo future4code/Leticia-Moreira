@@ -10,28 +10,23 @@ import { v4 as generateId } from 'uuid'
 
 // idealmente cada função de endpoint deve ter um arquivo próprio
 
-export async function testeEndpoint(
+export async function labecommerce_users(
   req: Request,
   res: Response
 ): Promise<void> {
-  try {
+  
+    try {
 
-    if (!"alguma verificação") {
-      // verificação para pegar os possíveis erros da requisição
-      // normalmente serão necessárias várias verificações
-      throw new Error("mensagem de erro");
-    }
+      const{ name, email, password} = req.body
 
+      await connection("users")
+      .insert({name, email, password})
 
+    
     const id = generateId() // a lib uuid é usada para gerar ID aleatórios
 
 
-    const result = await connection("Users"); // essa função irá retornar todos os valores da tabela "Users"
-    // lembre-se de alterar o nome da tabela
-
-
-
-    res.status(200).send({ message: "Sucesso", data: result }); // retorna para usuário em caso de sucesso
+   res.status(200).send({ message: "Sucesso"}); // retorna para usuário em caso de sucesso
     // lembre-se de alterar a message a cada endpoint e deixar o data apenas quando necessário 
 
     
