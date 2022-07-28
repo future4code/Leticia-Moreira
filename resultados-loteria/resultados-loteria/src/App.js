@@ -11,8 +11,8 @@ function App() {
       <div class="tela-inteira">
         <header>
         
-            <h1>Loteria</h1>
-            <input type="text" placeholder="Busca" id="campoDeBusca" />
+            <p class="name">Mega-sena</p>
+            
         </header>
 
         <main>
@@ -35,7 +35,7 @@ function App() {
         </main>
 
         <footer>
-            
+            Seja um ganhador!
         </footer>
       </div>
     </div>

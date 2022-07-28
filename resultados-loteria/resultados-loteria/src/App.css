@@ -1,12 +1,27 @@
 .App {
   text-align: center;
+  
 }
 
 footer {
   height: 10%;
-  background-color: rgb(128, 128, 128);
+  background-color: #6BEFA3;
   margin: 0;
   padding: 0;
   display: flex;
   align-items: center;
+}
+
+.tela-inteira {
+  background-color: #6BEFA3;
+}
+
+.name {
+ background-color: #6BEFA3;
+ height: 32px;
+ width: 245px;
+ left: 177px;
+ top: 523px;
+ border-radius: nullpx;
+
 }
