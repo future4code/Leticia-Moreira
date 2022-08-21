@@ -1,5 +1,5 @@
-[
-      {
+export const produtos = [
+    {
         "id" : 8371 ,
         "name" : " VESTIDO TRICOT CHEVRON " ,
         "tags" : [ " balada " , " neutro " , " delicado " , " festa " ]
@@ -124,5 +124,6 @@
         "name" : " VESTIDO WRAP FLEUR " ,
         "tags" : [ " neutro " , " liso " , " basics " , " viagem " ]
       }
-
     ]
+  
+
