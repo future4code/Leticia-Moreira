@@ -1,6 +1,6 @@
 import React from 'react'
 
-const FilmesPopulares = () => {
+const filmespopulares = () => {
   return (
     <div>
        Filmes Populares
@@ -9,4 +9,4 @@ const FilmesPopulares = () => {
   );
 }
 
-export default FilmesPopulares;
+export default filmespopulares;

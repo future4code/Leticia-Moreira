@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Home from './paginas/Home';
-import FilmesPopulares from './paginas/FilmesPopulares';
+import FilmesPopulares from './paginas/Filmespopulares';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
