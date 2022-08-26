@@ -1,19 +1,17 @@
 import React from 'react';
+import { StrictMode } from "react";
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import Home from './paginas/Home';
-import FilmesPopulares from './paginas/Filmespopulares';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
+import App from './App';
+
+
+const rootElement = document.getElementById("root");
+ReactDOM.render(
+  
+  <StrictMode>
     <App />
-    <React path = "/" element={<Home />}></React>
-    <React path = "filmes/:id" element={<FilmesPopulares />}></React>
-    
-  </React.StrictMode>
+  </StrictMode>,
+  rootElement
 );
 
 // If you want to start measuring performance in your app, pass a function
