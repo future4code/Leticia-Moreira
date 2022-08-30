@@ -16,10 +16,16 @@ const Home = () => {
       };
 
       useEffect(() => {
+        const topRatedUrl = '${filmesURL} top_rated? ${apikey}';
+        getTopRateFilmes (topRatedUrl);
 
       }, [])
 
-  return <div>Home</div>
+  return <div>
+    <h2 className='title'> Filmes Populares</h2>
+    {topFilmes.comprimento > 0 &&
+      topFilmes.map ((filmes)=><FilmeCard key = {filmes.id} filme ={filme}/>)}
+  </div>
   ;
 }
 
