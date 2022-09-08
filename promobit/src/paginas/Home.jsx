@@ -1,5 +1,6 @@
 import React from 'react'
 import { useEffect, useState } from 'react';
+import FilmeCard from '../components/FilmeCard';
 
 const filmesURL = import.meta.env.API;
 const apiKey = import.meta.env.API_KEY;
@@ -24,7 +25,7 @@ const Home = () => {
   return <div>
     <h2 className='title'> Filmes Populares</h2>
     {topFilmes.comprimento > 0 &&
-      topFilmes.map ((filmes)=><FilmeCard key = {filmes.id} filme ={filme}/>)}
+      topFilmes.map ((filmes)=> <FilmeCard key = {filmes.id} filme ={filmes}/>)}
   </div>
   ;
 }

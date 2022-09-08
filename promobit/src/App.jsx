@@ -4,19 +4,19 @@ import Navbar from './components/Navbar';
 import Home from './paginas/Home';
 import Filmespopulares from './paginas/Filmespopulares'
 
-function App() {
-  return (
+export default function App() {
+    return (
     <div className="App">
-       <Home />
+       <Home /> 
        <Filmespopulares />
        <Navbar /> 
-        <h2>
+        <h1>
           Filmes Populares
-        </h2>
+        </h1>
         
       
     </div>
   );
 }
 
-export default App;
+

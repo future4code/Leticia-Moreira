@@ -5,17 +5,3 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: #000;
-  color:antiquewhite;
-}
-
-a {
-  text-decoration: none;
-  color:blueviolet;
-  transition: .5s;
-}
-
-a:hover {
-  color:blue;
-}
