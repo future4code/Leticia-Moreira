@@ -1,0 +1,268 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< produtos >
+    < elemento >
+        < id >8371</ id >
+        < name >VESTIDO TRICOT CHEVRON</ name >
+        < tags >
+            < elemento >balada</ elemento >
+            < elemento >neutro</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >festa</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8367</ id >
+        < name >VESTIDO MOLETOM COM CAPUZ MESCLA</ name >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >metal</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8363</ id >
+        < nome >VESTIDO CURTO MANGA LONGA LUREX</ nome >
+        < tags >
+            < elemento >colorido</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >estampas</ elemento >
+            < elemento >passeio</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8360</ id >
+        < nome >VESTIDO FEMININO CANELADO</ nome >
+        < tags >
+            < elemento >roupa de trabalho</ elemento >
+            < elemento >viagem</ elemento >
+            < elemento >descolado</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8358</ id >
+        < name >VESTIDO REGATA FEMININO COM GOLA</ name >
+        < tags >
+            < elemento >moderno</ elemento >
+            < elemento >inverno</ elemento >
+            < elemento >liso</ elemento >
+            < elemento >básico</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8314</ id >
+        < name >VESTIDO PLISSADO ACINTURADO</ name >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >viagem</ elemento >
+            < elemento >delicado</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8311</ id >
+        < name >VESTIDO SLIPDRESS CETIM</ name >
+        < tags >
+            < elemento >balada</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >boho</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >passeio</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8310</ id >
+        < nome >VESTIDO CURTO PONTO ROMA MANGA</ nome >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >elastano</ elemento >
+            < elemento >estampas</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8309</ id >
+        < nome >VESTIDO MOLETOM COM CAPUZ</ nome >
+        < tags >
+            < elemento >inverno</ elemento >
+            < elemento >liso</ elemento >
+            < elemento >casual</ elemento >
+            < elemento >descolado</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8301</ id >
+        < name >VESTIDO LONGO CREPE MANGA COMPRIDA</ name >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >descolado</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8300</ id >
+        < name >VESTIDO MALHA COM FENDA</ name >
+        < tags >
+            < elemento >balada</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >estampas</ elemento >
+            < elemento >moderno</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8293</ id >
+        < nome >VESTIDO CURTO VELUDO RECORTE GOLA</ nome >
+        < tags >
+            < elemento >colorido</ elemento >
+            < elemento >viagem</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >inverno</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8291</ id >
+        < nome >VESTIDO MANGA COMPRIDA COSTAS</ nome >
+        < tags >
+            < elemento >inverno</ elemento >
+            < elemento >estampas</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >casual</ elemento >
+            < elemento >passeio</ elemento >
+            < elemento >básico</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8264</ id >
+        < nome >VESTIDO CURTO VELUDO CRISTAL</ nome >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >viagem</ elemento >
+            < elemento >boho</ elemento >
+            < elemento >neutro</ elemento >
+            < elemento >festa</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8119</ id >
+        < name >MALHA VESTIDO BABADOS</ name >
+        < tags >
+            < elemento >moderno</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >elastano</ elemento >
+            < elemento >festa</ elemento >
+            < elemento >colorido</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8110</ id >
+        < name >VESTIDO CUT OUT TRICOT</ name >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >colorido</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >viagem</ elemento >
+            < elemento >inverno</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8109</ id >
+        < nome >VESTIDO BABADOS HORIZONTAIS</ nome >
+        < tags >
+            < elemento >moderno</ elemento >
+            < elemento >boho</ elemento >
+            < elemento >festa</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >colorido</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8104</ id >
+        < name > VESTIDO BABADO TURTLENECK</ name >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >metal</ elemento >
+            < elemento >delicado</ elemento >
+            < elemento >neutro</ elemento >
+            < elemento >básico</ elemento >
+            < elemento >inverno</ elemento >
+            < elemento >viagem</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8091</ id >
+        < nome >VESTIDO MIDI VELUDO DECOTADO</ nome >
+        < tags >
+            < elemento >couro</ elemento >
+            < elemento >veludo</ elemento >
+            < elemento >passeio</ elemento >
+            < elemento >viagem</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8083</ id >
+        < name >VESTIDO LONGO ESTAMPADO</ name >
+        < tags >
+            < elemento >couro</ elemento >
+            < elemento >estampado</ elemento >
+            < elemento >passeio</ elemento >
+            < elemento >viagem</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >8080</ id >
+        < name >VESTIDO CURTO RENDA VISCOSE</ name >
+        < tags >
+            < elemento >neutro</ elemento >
+            < elemento >roupa de trabalho</ elemento >
+            < elemento >moderno</ elemento >
+            < elemento >descolado</ elemento >
+            < elemento >liso</ elemento >
+            < elemento >elastano</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >7613</ id >
+        < name >VESTIDO LONGO BABADO</ name >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >liso</ elemento >
+            < elemento >passeio</ elemento >
+            < elemento >colorido</ elemento >
+            < elemento >boho</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >7533</ id >
+        < name >VESTIDO ALGODÃO DUPLO</ name >
+        < tags >
+            < elemento >balada</ elemento >
+            < elemento >liso</ elemento >
+            < elemento >moderno</ elemento >
+            < elemento >descolado</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >7518</ id >
+        < name >VESTIDO CAMISETA FANCY</ name >
+        < tags >
+            < elemento >casual</ elemento >
+            < elemento >liso</ elemento >
+        </ tags >
+    </ elemento >
+    < elemento >
+        < id >7516</ id >
+        < name >VESTIDO WRAP FLEUR</ name >
+        < tags >
+            < elemento >neutro</ elemento >
+            < elemento >liso</ elemento >
+            < elemento >básico</ elemento >
+            < elemento >viagem</ elemento >
+        </ tags >
+    </ elemento >
+</ produtos >
